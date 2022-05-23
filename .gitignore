@@ -1,0 +1,15 @@
+# Environment and data
+/env
+/data
+/firestore-env
+.DS_Store
+
+# Configs and service account
+serviceAccountKey.json
+config.ini
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python
+__pycache__
